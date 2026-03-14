@@ -1,9 +1,6 @@
 {
   "require": {
     "php": ">=8.3",
-    "ext-bcmath": "*",
-    "ext-mysqli": "*",
-    "ext-curl": "*",
-    "ext-mbstring": "*"
+    "ext-bcmath": "*"
   }
 }
